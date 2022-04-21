@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="soduko">
+        <attr name="boardColor" format="color"/>
+        <attr name="cellFillColor" format="color"/>
+        <attr name="cellHighlightColor" format="color"/>
+
+        <attr name="letterColor" format="color"/>
+        <attr name="letterColorSolve" format="color"/>
+    </declare-styleable>
+</resources>
